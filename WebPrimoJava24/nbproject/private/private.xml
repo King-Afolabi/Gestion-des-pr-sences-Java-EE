@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/kingafolabi/NetBeansProjects/WebPrimoJava24/web/WEB-INF/ADMIN/navbar.jsp</file>
+            <file>file:/Users/kingafolabi/NetBeansProjects/WebPrimoJava24/src/java/fr/cda/model/User.java</file>
+            <file>file:/Users/kingafolabi/NetBeansProjects/WebPrimoJava24/src/java/fr/cda/model/Classe.java</file>
+            <file>file:/Users/kingafolabi/NetBeansProjects/WebPrimoJava24/src/java/fr/cda/dao/UserDao.java</file>
+            <file>file:/Users/kingafolabi/NetBeansProjects/WebPrimoJava24/web/WEB-INF/ADMIN/list_user.jsp</file>
+            <file>file:/Users/kingafolabi/NetBeansProjects/WebPrimoJava24/src/java/fr/cda/servlet/UserServlet.java</file>
+            <file>file:/Users/kingafolabi/NetBeansProjects/WebPrimoJava24/web/WEB-INF/ADMIN/add_classe.jsp</file>
+            <file>file:/Users/kingafolabi/NetBeansProjects/WebPrimoJava24/web/WEB-INF/ADMIN/user_add_classe.jsp</file>
+            <file>file:/Users/kingafolabi/NetBeansProjects/WebPrimoJava24/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
